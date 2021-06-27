@@ -1,16 +1,16 @@
 ### Hi there 👋
+This is a copy of my website https://sites.google.com/view/realize-the-reality for backup.
 
-<!--
-**w3bsit3/w3bsit3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+The website is about seeing the world from an aerial view not literally but to show whats happening and what should be done to make things fall in place.
 
-Here are some ideas to get you started:
+And *what should be done?*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Elimination of money 
+
+
+What??
+Why?
+How?
+
+
+Here
