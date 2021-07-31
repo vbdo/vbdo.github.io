@@ -1,5 +1,5 @@
 ### Hi there 👋
-This is a copy of my [website](https://sites.google.com/view/realize-the-reality) for backup.
+This is a summary of my [website](https://sites.google.com/view/realize-the-reality) for backup.
 
 The website is about seeing the world from an aerial view not literally but to show whats happening and what should be done to make things fall in place.
 
