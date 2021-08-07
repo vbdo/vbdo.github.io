@@ -1,12 +1,13 @@
 # Hi there 👋 vIBED oUT here! 
-#### yeah i like to rhyme sometimes 
 
-*This is my World Wide Web-site*
+*This is my World Wide Web-site* 
 
 *I like*
 🎶 Music
 🤸sports 
 💬 talking
+
+## =)
 
 ### Music
 [Bandcamp](vbdo.bandcamp.com)
