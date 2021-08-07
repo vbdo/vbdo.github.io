@@ -10,7 +10,7 @@
 ## =)
 
 ### Music
-[Bandcamp](vbdo.bandcamp.com)
+[Bandcamp](https://vbdo.bandcamp.com/)
 
 [Funkwhale](https://open.audio/channels/vibed_out/)
 
