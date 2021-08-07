@@ -1,53 +1,28 @@
-### Hi there 👋
-This is a summary of my [website](https://sites.google.com/view/realize-the-reality) for backup.
+# Hi there 👋 vIBED oUT here! 
+#### yeah i like to rhyme sometimes 
 
-The website is about seeing the world from an aerial view not literally but to show whats happening and what should be done to make things fall in place.
+*This is my World Wide Web-site*
 
-And *what should be done?*
+*I like*
+🎶 Music
+🤸sports 
+💬 talking
 
-Elimination of money 
+### Music
+[Bandcamp](vbdo.bandcamp.com)
 
+[Funkwhale](https://open.audio/channels/vibed_out/)
 
-What??
-Why?
-How?
+### Videos
+[Peertube](https://tube.tchncs.de/a/vbd/video-channels)
 
-
-Here
-
-## Summary
-
-Almost everything is connected..
-
-Money ruins things
-
-(Creates inequality , messes up minds , pushes for more ,keeps unsatisfied , crimes , environmental degradation , health  etc.)
-
-How to eliminate Money WITHOUT compromising on anything ?
-
-Being Self sufficient in Homestead 
-
-Growing own food ( Permaculture  -Natural way of growing food)
-
-Making own stuff DIY , Working through willing cooperation , 
-
-Poverty , inequalities , crimes , transportation , pollution , waste , diseases etc. Will become negligible...
+[Youtube](https://www.youtube.com/c/vIBEDoUT-Channel/videos)
 
 
-= Healthier , happier , better sharing of knowledge , focus on things like Space..
 
 
-THIS ISN'T  ABOUT ELIMINATING MONEY FROM YOUR LIVES OR EVERYONE'S 
+### 📫 How to reach me: 
 
-THIS IS ABOUT ELIMINATING INEQUALITIES , 
+--> vbdmail@tutanota.com
 
-ENVIRONMENTAL DESTRUCTION 
-
-CRIMES ( WHICH TO ME SEEMS A REASON BIG ENOUGH )
-
-ETC.
-
-
-WE CAN DO EVERYTHING WITHOUT MONEY TOO BUT BETTER AND WITHOUT THE SIDE EFFECTS.
-
-Eliminating Money → Independence → Freedom→ Equality→ Peace ☮→ Progress️
+--> Chaterr@matrix.org
