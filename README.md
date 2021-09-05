@@ -12,7 +12,7 @@
 [Bandcamp](https://vbdo.bandcamp.com/)
 
 
-![https://open.audio/channels/vibed_out/]()
+![https://open.audio/channels/vibed_out/](/funkw.png)
 [Funkwhale](https://open.audio/channels/vibed_out/)
 
 ### Videos
@@ -27,4 +27,4 @@
 
 --> vbdmail@tutanota.com
 
---> Chaterr@matrix.org
+--> v1b3d@matrix.org
