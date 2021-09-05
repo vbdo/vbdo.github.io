@@ -2,9 +2,11 @@
 
 
 *I like*
+
 🎶 Music
+
 🤸sports 
-💬 talking
+
 
 ## =)
 
@@ -12,7 +14,6 @@
 [Bandcamp](https://vbdo.bandcamp.com/)
 
 
-![https://open.audio/channels/vibed_out/](/funkw.png)
 [Funkwhale](https://open.audio/channels/vibed_out/)
 
 ### Videos
@@ -25,6 +26,6 @@
 
 ### 📫 How to reach me: 
 
---> vbdmail@tutanota.com
+--> emaill@ctemplar.com
 
 --> v1b3d@matrix.org
