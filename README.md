@@ -1,6 +1,5 @@
 # Hi there 👋 vIBED oUT here! 
 
-*This is my World Wide Web-site* 
 
 *I like*
 🎶 Music
@@ -12,6 +11,8 @@
 ### Music
 [Bandcamp](https://vbdo.bandcamp.com/)
 
+
+![https://open.audio/channels/vibed_out/]()
 [Funkwhale](https://open.audio/channels/vibed_out/)
 
 ### Videos
