@@ -8,17 +8,17 @@
 # 🔗*LINKS*
 ## [Fediverse!](https://fediverse.party/)
 -------
-### [Peertube](https://tube.tchncs.de/a/vbd/video-channels)
+### • [Peertube](https://tube.tchncs.de/a/vbd/video-channels)
 
-### [Funkwhale](https://open.audio/channels/vibed_out/)
+### • [Funkwhale](https://open.audio/channels/vibed_out/)
 
 ------
-## 
+----
 
-### [Bandcamp](https://vbdo.bandcamp.com/) (Uncompressed wav.)
+### • [Bandcamp](https://vbdo.bandcamp.com/) 
 
 
-### [Youtube](https://www.youtube.com/c/vIBEDoUT-Channel/videos)
+### • [Youtube](https://www.youtube.com/c/vIBEDoUT-Channel/videos)
 
 
 
@@ -31,11 +31,12 @@
 
 
 
-## 📫 How to reach me: 
+##  How to reach me: 
 
---> vbdmail@tutanota.com
+Email --> vbdmail@tutanota.com
 
---> v1b3d@matrix.org
+[Matrix](https://matrix.org/) --> v1b3d@matrix.org 
 
+-----
 
-### Music [(CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) 
+#### Music is uploaded under creative commons! [(CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) 
