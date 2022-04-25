@@ -1,11 +1,7 @@
-# Hi there 👋 vIBED oUT here! 
+# Hi there 👋 vIBED oUT here!
 
 
-*I like*
 
-🎶 Music
-
-🤸sports 
 
 
 ## =)
