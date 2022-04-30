@@ -1,4 +1,4 @@
-# ! vIBED oUT ! 
+# ⚡ vIBED oUT ⚡ 
 - 👋 Hi there =)
 - 👀 I’m interested in moslty **Music , Sports & Environmentalism** ( *Instruments , Singing , Writing , Dancing , Muscle Building , Team sports , MMA  , minimalism etc.*)
 
