@@ -1,6 +1,6 @@
 # ! vIBED oUT ! 
 - 👋 Hi there =)
-- 👀 I’m interested in moslty **Music & Sports** ( *Instruments , Singing , Writing , Dancing , Muscle Building , Team sports , MMA etc.*)
+- 👀 I’m interested in moslty **Music , Sports & Environmentalism** ( *Instruments , Singing , Writing , Dancing , Muscle Building , Team sports , MMA  , minimalism etc.*)
 
 - 🌱 I’m currently learning everything I want and can
 
