@@ -16,14 +16,16 @@
  
 
 -------
-### • [Peertube](https://tube.tchncs.de/a/vbd/video-channels)
+### • [Peertube](https://tube.tchncs.de/a/vbd/video-channels) V D O
 
-### • [Funkwhale](https://open.audio/channels/vibed_out/)
+### • [WriteFreely](https://paper.wf/vbd/) T X T
+
+### • [Funkwhale](https://open.audio/channels/vibed_out/) O D O
 
 ------
 ------
 
-### • [Bandcamp](https://vbdo.bandcamp.com/) 
+### • [Bandcamp](https://vbdo.bandcamp.com/)
 
 
 ### • [Youtube](https://www.youtube.com/c/vIBEDoUT-Channel/videos)
